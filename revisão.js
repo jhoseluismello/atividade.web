@@ -16,7 +16,8 @@ const media = soma / quantidade;
 console.log("Média:", media);0*/ // Saída: Média 7.333...
 
 
-// const: valor fixo após a declaração
+
+/* // const: valor fixo após a declaração
 const PI = 3.14159;
 const nomeAluno = "Maria";
 
@@ -30,4 +31,5 @@ contador = contador + 1; // Ok - agora contador vale 1
 var idade = 20;
 idade = 21; // funciona, mas prefira let/const
 
-console.log ({PI, nomeAluno, contador, idade});
+console.log ({PI, nomeAluno, contador, idade}); */
+
